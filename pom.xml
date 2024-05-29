@@ -47,6 +47,9 @@
   </scm>
 
   <properties>
+    <sonar.organization>imanolmarana</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+     
     <assemblyBinDescriptor>src/main/assembly/bin-without-jackson.xml</assemblyBinDescriptor> 
     <postNoticeText>${ibmNoticeText}</postNoticeText>    
   </properties>
